@@ -1,0 +1,1 @@
+Django rest framework todolist app that uses javascript on the frontend to make api calls.
